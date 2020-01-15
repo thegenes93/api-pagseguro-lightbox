@@ -10,7 +10,7 @@ module.exports = app => {
             email: 'email da sua conta do pagseguro',
             senderEmail: 'email do cliente',
             currency: 'BRL',
-        }
+        } 
         //add os demais dados do pedido OBs todos os dados deve ser string
         qs.reference = '1'
         qs.senderName = 'cliente'
