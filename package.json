@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "consign": "^0.1.6",
     "ejs": "^2.7.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "extend": "^3.0.2",
     "nodemon": "^1.19.4",
     "pagseguro.js": "^0.2.0",
